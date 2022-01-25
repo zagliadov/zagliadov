@@ -22,3 +22,9 @@
 ![google](https://img.shields.io/badge/-google-282C34?style=for-the-badge&logo=google)
 ![google maps](https://img.shields.io/badge/-google%20maps-282C34?style=for-the-badge&logo=google-maps)
 ![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql)
+
+
+### Follow Me 
+
+[![Telegram](https://img.shields.io/badge/-Telegram-282C34?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/)
+
