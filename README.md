@@ -20,3 +20,5 @@
 ![MobX](https://img.shields.io/badge/-mobx-282C34?style=for-the-badge&logo=mobx)
 ![Styled-Components](https://img.shields.io/badge/-styled%20somponents-282C34?style=for-the-badge&logo=styled-components)
 ![google](https://img.shields.io/badge/-google-282C34?style=for-the-badge&logo=google)
+![google maps](https://img.shields.io/badge/-google%20maps-282C34?style=for-the-badge&logo=google-maps)
+![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql)
