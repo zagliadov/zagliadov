@@ -1,4 +1,4 @@
-![Header](https://github.com/zagliadov/zagliadov/blob/main/assets/3otv.gif)
+![Header](https://github.com/zagliadov/zagliadov/blob/main/assets/33HI.gif)
 
 ## I'm a beginner Software Engeneer
 
@@ -28,3 +28,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-282C34?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagliadov&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zagliadov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
