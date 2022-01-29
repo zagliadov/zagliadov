@@ -5,7 +5,7 @@
 ### My Tools
 
 [![React](https://img.shields.io/badge/-React-282C34?style=for-the-badge&logo=react)](https://ru.reactjs.org/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=JavaScript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=JavaScript)](https://learn.javascript.ru/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-282C34?style=for-the-badge&logo=TypeScript)
 ![Docker](https://img.shields.io/badge/-Docker-282C34?style=for-the-badge&logo=Docker)
 ![Redux](https://img.shields.io/badge/-Redux-282C34?style=for-the-badge&logo=Redux)
