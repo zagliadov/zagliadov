@@ -17,7 +17,7 @@
 [![Ant Design](https://img.shields.io/badge/-ant%20design-282C34?style=for-the-badge&logo=ant-design)](https://ant.design/)
 [![MUI](https://img.shields.io/badge/-mui-282C34?style=for-the-badge&logo=mui)](https://mui.com/)
 [![HTML5](https://img.shields.io/badge/-html5-282C34?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-![MobX](https://img.shields.io/badge/-mobx-282C34?style=for-the-badge&logo=mobx)
+[![MobX](https://img.shields.io/badge/-mobx-282C34?style=for-the-badge&logo=mobx)](https://mobx.js.org/README.html)
 ![Styled-Components](https://img.shields.io/badge/-styled%20somponents-282C34?style=for-the-badge&logo=styled-components)
 ![google](https://img.shields.io/badge/-google-282C34?style=for-the-badge&logo=google)
 ![google maps](https://img.shields.io/badge/-google%20maps-282C34?style=for-the-badge&logo=google-maps)
