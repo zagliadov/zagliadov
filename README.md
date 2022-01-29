@@ -8,7 +8,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-282C34?style=for-the-badge&logo=JavaScript)](https://learn.javascript.ru/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-282C34?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/-Docker-282C34?style=for-the-badge&logo=Docker)](https://www.docker.com/)
-![Redux](https://img.shields.io/badge/-Redux-282C34?style=for-the-badge&logo=Redux)
+[![Redux](https://img.shields.io/badge/-Redux-282C34?style=for-the-badge&logo=Redux)](https://redux.js.org/)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-282C34?style=for-the-badge&logo=Postgresql)
 ![Sass](https://img.shields.io/badge/-sass-282C34?style=for-the-badge&logo=sass)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-282C34?style=for-the-badge&logo=bootstrap)
