@@ -14,7 +14,7 @@
 [![bootstrap](https://img.shields.io/badge/-bootstrap-282C34?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![GitHub](https://img.shields.io/badge/-github-282C34?style=for-the-badge&logo=github)](https://github.com/zagliadov?tab=overview&from=2022-01-01&to=2022-01-28)
 [![express](https://img.shields.io/badge/-express-282C34?style=for-the-badge&logo=express)](https://expressjs.com/)
-![Ant Design](https://img.shields.io/badge/-ant%20design-282C34?style=for-the-badge&logo=ant-design)
+[![Ant Design](https://img.shields.io/badge/-ant%20design-282C34?style=for-the-badge&logo=ant-design)](https://ant.design/)
 ![MUI](https://img.shields.io/badge/-mui-282C34?style=for-the-badge&logo=mui)
 ![HTML5](https://img.shields.io/badge/-html5-282C34?style=for-the-badge&logo=html5)
 ![MobX](https://img.shields.io/badge/-mobx-282C34?style=for-the-badge&logo=mobx)
