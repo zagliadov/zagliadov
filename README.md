@@ -10,7 +10,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-282C34?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![Redux](https://img.shields.io/badge/-Redux-282C34?style=for-the-badge&logo=Redux)](https://redux.js.org/)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-282C34?style=for-the-badge&logo=Postgresql)](https://www.postgresql.org/)
-![Sass](https://img.shields.io/badge/-sass-282C34?style=for-the-badge&logo=sass)
+[![Sass](https://img.shields.io/badge/-sass-282C34?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-282C34?style=for-the-badge&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-github-282C34?style=for-the-badge&logo=github)
 ![express](https://img.shields.io/badge/-express-282C34?style=for-the-badge&logo=express)
