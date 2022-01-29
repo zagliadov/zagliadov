@@ -19,7 +19,7 @@
 [![HTML5](https://img.shields.io/badge/-html5-282C34?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![MobX](https://img.shields.io/badge/-mobx-282C34?style=for-the-badge&logo=mobx)](https://mobx.js.org/README.html)
 [![Styled-Components](https://img.shields.io/badge/-styled%20somponents-282C34?style=for-the-badge&logo=styled-components)](https://styled-components.com/)
-![google](https://img.shields.io/badge/-google-282C34?style=for-the-badge&logo=google)
+[![google](https://img.shields.io/badge/-google-282C34?style=for-the-badge&logo=google)](https://www.google.com)
 ![google maps](https://img.shields.io/badge/-google%20maps-282C34?style=for-the-badge&logo=google-maps)
 ![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql)
 
