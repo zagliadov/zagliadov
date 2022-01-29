@@ -20,7 +20,7 @@
 [![MobX](https://img.shields.io/badge/-mobx-282C34?style=for-the-badge&logo=mobx)](https://mobx.js.org/README.html)
 [![Styled-Components](https://img.shields.io/badge/-styled%20somponents-282C34?style=for-the-badge&logo=styled-components)](https://styled-components.com/)
 [![google](https://img.shields.io/badge/-google-282C34?style=for-the-badge&logo=google)](https://www.google.com)
-![google maps](https://img.shields.io/badge/-google%20maps-282C34?style=for-the-badge&logo=google-maps)
+[![google maps](https://img.shields.io/badge/-google%20maps-282C34?style=for-the-badge&logo=google-maps)](https://www.google.com.ua/maps/place/%D0%93%D1%83%D0%B3%D0%BB%D0%BF%D0%BB%D0%B5%D0%BA%D1%81/@37.4220656,-122.0840897,13z/data=!4m13!1m7!3m6!1s0x808fb7495bec0189:0x7c17d44a466baf9b!2z0JzQsNGD0L3RgtC40L0t0JLRjNGOLCDQmtCw0LvQuNGE0L7RgNC90LjRjywg0KHQqNCQ!3b1!8m2!3d37.3860517!4d-122.0838511!3m4!1s0x808fba02425dad8f:0x6c296c66619367e0!8m2!3d37.4220656!4d-122.0840897?hl=ru)
 ![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql)
 
 
