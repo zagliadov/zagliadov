@@ -12,7 +12,7 @@
 [![Postgresql](https://img.shields.io/badge/-Postgresql-282C34?style=for-the-badge&logo=Postgresql)](https://www.postgresql.org/)
 [![Sass](https://img.shields.io/badge/-sass-282C34?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![bootstrap](https://img.shields.io/badge/-bootstrap-282C34?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-![GitHub](https://img.shields.io/badge/-github-282C34?style=for-the-badge&logo=github)
+[![GitHub](https://img.shields.io/badge/-github-282C34?style=for-the-badge&logo=github)](https://github.com/zagliadov?tab=overview&from=2022-01-01&to=2022-01-28)
 ![express](https://img.shields.io/badge/-express-282C34?style=for-the-badge&logo=express)
 ![Ant Design](https://img.shields.io/badge/-ant%20design-282C34?style=for-the-badge&logo=ant-design)
 ![MUI](https://img.shields.io/badge/-mui-282C34?style=for-the-badge&logo=mui)
