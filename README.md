@@ -24,9 +24,6 @@
 [![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql)](https://graphql.org/)
 
 
-### Follow Me 
-
-[![Telegram](https://img.shields.io/badge/-Telegram-282C34?style=for-the-badge&logo=telegram)](https://web.telegram.org/z/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zagliadov&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
